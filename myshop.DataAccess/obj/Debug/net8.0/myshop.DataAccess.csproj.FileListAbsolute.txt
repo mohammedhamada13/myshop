@@ -1,0 +1,17 @@
+D:\Projects CV\myshop\myshop.DataAccess\obj\Debug\net8.0\myshop.DataAccess.csproj.AssemblyReference.cache
+D:\Projects CV\myshop\myshop.DataAccess\obj\Debug\net8.0\myshop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects CV\myshop\myshop.DataAccess\obj\Debug\net8.0\myshop.DataAccess.AssemblyInfoInputs.cache
+D:\Projects CV\myshop\myshop.DataAccess\obj\Debug\net8.0\myshop.DataAccess.AssemblyInfo.cs
+D:\Projects CV\myshop\myshop.DataAccess\obj\Debug\net8.0\myshop.DataAccess.csproj.CoreCompileInputs.cache
+D:\Projects CV\myshop\myshop.DataAccess\bin\Debug\net8.0\myshop.DataAccess.deps.json
+D:\Projects CV\myshop\myshop.DataAccess\bin\Debug\net8.0\myshop.DataAccess.runtimeconfig.json
+D:\Projects CV\myshop\myshop.DataAccess\bin\Debug\net8.0\myshop.DataAccess.dll
+D:\Projects CV\myshop\myshop.DataAccess\bin\Debug\net8.0\myshop.DataAccess.pdb
+D:\Projects CV\myshop\myshop.DataAccess\bin\Debug\net8.0\myshop.Entities.dll
+D:\Projects CV\myshop\myshop.DataAccess\bin\Debug\net8.0\myshop.Entities.pdb
+D:\Projects CV\myshop\myshop.DataAccess\obj\Debug\net8.0\myshop.DataAccess.csproj.CopyComplete
+D:\Projects CV\myshop\myshop.DataAccess\obj\Debug\net8.0\myshop.DataAccess.dll
+D:\Projects CV\myshop\myshop.DataAccess\obj\Debug\net8.0\refint\myshop.DataAccess.dll
+D:\Projects CV\myshop\myshop.DataAccess\obj\Debug\net8.0\myshop.DataAccess.pdb
+D:\Projects CV\myshop\myshop.DataAccess\obj\Debug\net8.0\myshop.DataAccess.genruntimeconfig.cache
+D:\Projects CV\myshop\myshop.DataAccess\obj\Debug\net8.0\ref\myshop.DataAccess.dll

@@ -1,0 +1,12 @@
+D:\Projects CV\myshop\myshop.Utilities\bin\Debug\net8.0\myshop.Utilities.deps.json
+D:\Projects CV\myshop\myshop.Utilities\bin\Debug\net8.0\myshop.Utilities.dll
+D:\Projects CV\myshop\myshop.Utilities\bin\Debug\net8.0\myshop.Utilities.pdb
+D:\Projects CV\myshop\myshop.Utilities\obj\Debug\net8.0\myshop.Utilities.csproj.AssemblyReference.cache
+D:\Projects CV\myshop\myshop.Utilities\obj\Debug\net8.0\myshop.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects CV\myshop\myshop.Utilities\obj\Debug\net8.0\myshop.Utilities.AssemblyInfoInputs.cache
+D:\Projects CV\myshop\myshop.Utilities\obj\Debug\net8.0\myshop.Utilities.AssemblyInfo.cs
+D:\Projects CV\myshop\myshop.Utilities\obj\Debug\net8.0\myshop.Utilities.csproj.CoreCompileInputs.cache
+D:\Projects CV\myshop\myshop.Utilities\obj\Debug\net8.0\myshop.Utilities.dll
+D:\Projects CV\myshop\myshop.Utilities\obj\Debug\net8.0\refint\myshop.Utilities.dll
+D:\Projects CV\myshop\myshop.Utilities\obj\Debug\net8.0\myshop.Utilities.pdb
+D:\Projects CV\myshop\myshop.Utilities\obj\Debug\net8.0\ref\myshop.Utilities.dll
